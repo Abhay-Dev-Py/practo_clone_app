@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582957483688",
+    "project_id": "caller-voip-ffb23",
+    "storage_bucket": "caller-voip-ffb23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582957483688:android:7f108d320853c2b5e5649d",
+        "android_client_info": {
+          "package_name": "com.abhay.caller_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582957483688-hdm4qdpptl87qarrb6aag6basfip1q28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcchsprhEXcwmuwhvLgXP-TBwD8CKBglg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582957483688-hdm4qdpptl87qarrb6aag6basfip1q28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
